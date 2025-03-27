@@ -45,7 +45,7 @@ python thingspeak_reader.py
 
 
 
-📊 ThingSpeak Info
+## 📊 ThingSpeak Info
 Channel ID: 2894437
 
 Write API Key: 1O2D4JS6LNK1HWYL
@@ -53,7 +53,7 @@ Write API Key: 1O2D4JS6LNK1HWYL
 Read API Key: LY5T2T12ZEI363PY
 
 
-🙌 Author
+## 🙌 Author
 Saad Shah
 M.S. Computer Science — Syracuse University
 
