@@ -46,7 +46,35 @@ python iot_station_simulator.py
 ### 4. Start MQTT → ThingSpeak Bridge (Terminal 2)
 python mqtt_to_thingspeak.py
 
-
 ### 5. View or Plot Data (Terminal 3)
 python thingspeak_reader.py
+
+📊 ThingSpeak Info
+Channel ID: 2894437
+
+Write API Key: 1O2D4JS6LNK1HWYL
+
+Read API Key: LY5T2T12ZEI363PY
+
+Screenshots
+Include:
+
+iot_station_simulator.py running (sensor output)
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/6820cef8-dc54-436f-acd8-4cd306462851" />
+
+
+mqtt_to_thingspeak.py running (received + posted)
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/c9f7ba7e-b3c3-4b57-8782-6c3615011b00" />
+
+
+thingspeak_reader.py output
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/ac98fb39-1d49-4d30-be93-865417226cbf" />
+
+
+ThingSpeak graphs live in browser
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/f6adb03c-fa80-439e-901d-d6bbaa6228fa" />
+
+🙌 Author
+Saad Shah
+M.S. Computer Science — Syracuse University
 
