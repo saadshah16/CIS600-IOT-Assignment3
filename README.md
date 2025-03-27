@@ -42,24 +42,8 @@ python mqtt_to_thingspeak.py
 ### 5. View or Plot Data (Terminal 3)
 python thingspeak_reader.py
 
-```bash
-git clone https://github.com/YOUR_USERNAME/CIS600-IoT-Assignment3.git
-cd CIS600-IoT-Assignment3
 
 
-### 2. Install dependencies
-pip install -r requirements.txt
-
-
-### 3. Start Sensor Publisher(Terminal 1)
-python iot_station_simulator.py
-
-
-### 4. Start MQTT → ThingSpeak Bridge (Terminal 2)
-python mqtt_to_thingspeak.py
-
-### 5. View or Plot Data (Terminal 3)
-python thingspeak_reader.py
 
 📊 ThingSpeak Info
 Channel ID: 2894437
